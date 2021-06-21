@@ -189,7 +189,7 @@ p{
 }
 
 .footer{
-  background: linear-gradient(70.16deg, #6E23FF 0.8%, #B92BFF 98.97%);
+  background: linear-gradient(70.16deg, #6e23ff 0.8%, #B92BFF 98.97%);
   padding: 30px 0px;
 }
 .footer__container{
@@ -226,7 +226,43 @@ p{
   grid-area: hline;
 }
 
+.projects-list{
+  margin: 40px 50px;
+}
+@media (min-width: 768px) {
+  .projects-list{
+    margin: 40px 300px;
+  }
+}
+.project__item{
+  position: relative;
+  border-radius: 20px;
+}
 
+.project__item-img{
+  border-radius: 20px;
+}
+.project__item-name{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #6c23ffb7;
+  color: #fff;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity .2s, visibility .2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  margin: 0;
+}
+.project__item:hover .project__item-name {
+  visibility: visible;
+  opacity: 1;
+}
 .portfolio-info h3 {
   color: #fff;
 }
