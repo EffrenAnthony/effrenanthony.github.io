@@ -2,7 +2,7 @@
 
 ## Decription
 
-This project for MITxPro is about my portfolio of projects maded in this certification. Here I'm showing the projects that I've been developing during the past months and all fo them try to show about the progress of learing HTML, CSS and JavaScript.
+This project for MITxPro is about my portfolio of projects made in this certification. Here I'm showing the projects that I've been developing during the past months and for all of them I'm showing about the progress of learning HTML, CSS and JavaScript. Here you will find a Landing Page with an introduction of myself, a biography and a resume of my projects. Also per each project you will see a page where you will see the information and the links to see the projects in production and the source code. To navigate inside the page there is a navigation bar that you can use to move through all of the sites.
 
 ## How to run:
 
