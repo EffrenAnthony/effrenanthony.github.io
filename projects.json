@@ -1,0 +1,24 @@
+{
+  "projects": [
+    {
+      "name": "Pacmen",
+      "image": "./packmen/pacmen.gif",
+      "url": "#/pacmen"
+    },
+    {
+      "name": "Eye",
+      "image": "./eye/eye.gif",
+      "url": "#/realtime"
+    },
+    {
+      "name": "Real Time Bus Tracker",
+      "image": "./bustracker/bustracker.gif",
+      "url": "#/eye"
+    },
+    {
+      "name": "<i class='fab fa-react'></i> Resume portfolio",
+      "image": "./resumePortfolio/portfolio.gif",
+      "url": "#/resume"
+    }
+  ]
+}
