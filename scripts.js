@@ -64,7 +64,7 @@ var routes = {
   '/':         'home.html',
   '#/pacmen':    './packmen/index.html',                
   '#/realtime':  './bustracker/index.html',        
-  '#/eye':    './bustracker/index.html',
+  '#/eye':    './eye/index.html',
   '#/resume': './resumePortfolio/index.html',
 };
 

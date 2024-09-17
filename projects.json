@@ -8,12 +8,12 @@
     {
       "name": "Eye",
       "image": "./eye/eye.gif",
-      "url": "#/realtime"
+      "url": "#/eye"
     },
     {
       "name": "Real Time Bus Tracker",
       "image": "./bustracker/bustracker.gif",
-      "url": "#/eye"
+      "url": "#/realtime"
     },
     {
       "name": "<i class='fab fa-react'></i> Resume portfolio",
